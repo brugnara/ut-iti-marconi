@@ -17,3 +17,7 @@ Serve una copia di Unreal Tournament facilmente reperibile su [GOG](https://www.
 Una volta installato il gioco, copiare le due cartelle **Maps** e **Textures** nella cartella principale del gioco.
 
 Lanciate quindi il gioco e la troverete creando una nuova partita, nella sola modalità **CTF**
+
+## issues
+
+Settate il gioco a 32bit altrimenti scatta un botto.
