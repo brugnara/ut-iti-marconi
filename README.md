@@ -9,3 +9,11 @@ Grazie ad un vecchio backup del mio compagno di banco, eccoci a ripresentarvi qu
 la mappa delle ITI di Rovereto!
 
 Questo repository come lascito di quanto ci siamo divertiti ai tempi.
+
+## howto
+
+Serve una copia di Unreal Tournament facilmente reperibile su [GOG](https://www.gog.com/game/unreal_tournament_goty) o [Steam](http://store.steampowered.com/app/13240/).
+
+Una volta installato il gioco, copiare le due cartelle **Maps** e **Textures** nella cartella principale del gioco.
+
+Lanciate quindi il gioco e la troverete creando una nuova partita, nella sola modalità **CTF**
